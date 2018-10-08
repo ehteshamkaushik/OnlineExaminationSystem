@@ -1,0 +1,75 @@
+1.Which of the following computer implemented binary numbers, perform calculations using electronics and implemented separate computation and memory for the first time?
+Mark I
+ABC
+Z3
+None of above
+2.FORTRAN is a programming language. What does FORTRAN stand for?
+File Translation
+Format Translation
+Formula Translation
+Floppy Translation
+3.Which of the following memories needs refreshing?
+SRAM
+DRAM
+ROM
+All of above
+4.Can you tell what passes into and out from the computer via its ports?
+Data
+Bytes
+Graphics
+Pictures
+5.An output device that uses words or messages recorded on a magnetic medium to produce audio response is
+Magnetic tape
+Voice response unit
+Voice recognition unit
+Voice band
+6.Which of the items below are considered removable storage media?
+Removable hard disk cartridges
+(Magneto-optical) disk
+Flexible disks cartridges
+All of the above
+7.Which of the following is not purely output device?
+Screen
+Printer
+Speaker
+Plotter
+8.Who developed a mechanical device in the 17th century that could add, subtract, multiple, divide and find square roots?
+Napier
+Babbage
+Pascal
+Leibniz
+9.The first Macintosh computer was from
+First generation
+Second generation
+Third generation
+Fourth generation
+10.Which of the following is not a form of data?
+numbers and characters
+images
+sound
+none of above
+11.Which is not a computer classification?
+mainframe
+maxframe
+mini
+notebook
+12.The control unit of a microprocessor
+Stores data in the memory
+Accepts input data from keyboard
+Performs arithmetic/logic function
+None of above
+13.Which of the following is internal memory?
+Disks
+Pen Drives
+RAM
+CDs
+14.Which operation is not performed by computer
+Inputting
+Processing
+Controlling
+Understanding
+15.Floppy disks which are made from flexible plastic material are also called?
+Hard disks
+High-density disks
+Diskettes
+Templates
